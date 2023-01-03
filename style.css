@@ -1,0 +1,25 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+.heading{
+    background-image: url(./pexels-rfstudio-3819572.jpg); 
+    /* background-position: 100% 100%; */
+    background-size:100% 100%;
+    width: 550px;
+    height: 625px;
+}
+.logo{
+    font-size: 30px;
+    margin: 20px 30px;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.heading-1{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
